@@ -1,0 +1,7 @@
+perfect.cpp - perfect memory dependence prediction
+naive.cpp - naive speculation
+nospec.cpp - no speculation
+ss2.cpp - speculation using store sets with the infinite configuration
+ss3.cpp - Load depends upon one store
+ss4.cpp - One load depends upon given store
+

@@ -1,0 +1,6 @@
+zcat /home1/c/cis501/html/traces/art-100M.trace.gz | ./$1 512
+zcat /home1/c/cis501/html/traces/art-100M.trace.gz | ./$1 1024
+zcat /home1/c/cis501/html/traces/gcc-50M.trace.gz | ./$1 512
+zcat /home1/c/cis501/html/traces/gcc-50M.trace.gz | ./$1 1024
+
+

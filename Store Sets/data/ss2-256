@@ -1,0 +1,14 @@
+ubeen@spec12:~/Computer Architechture/Project - Store Sets/final_proj (latency 1, perfect branch prediction)> runproj ss2 256
+Total cycles: 224 Total MicroOps: 1000 IPC: 4.464286
+Total cycles: 13096147 Total MicroOps: 100000000 IPC: 7.635834
+Total cycles: 1491790 Total MicroOps: 10000000 IPC: 6.703356
+Total cycles: 7436768 Total MicroOps: 49999999 IPC: 6.723351
+Total cycles: 14795780 Total MicroOps: 100000002 IPC: 6.758684
+Total cycles: 8867 Total MicroOps: 60191 IPC: 6.788203
+Total cycles: 13614227 Total MicroOps: 100000000 IPC: 7.345257
+Total cycles: 17816725 Total MicroOps: 100000000 IPC: 5.612704
+Total cycles: 15817721 Total MicroOps: 100000000 IPC: 6.322023
+Total cycles: 13043449 Total MicroOps: 100000000 IPC: 7.666684
+Total cycles: 12940178 Total MicroOps: 100000000 IPC: 7.727869
+Total cycles: 1296081 Total MicroOps: 10000000 IPC: 7.715567
+

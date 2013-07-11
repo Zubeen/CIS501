@@ -1,0 +1,14 @@
+zubeen@spec16:~/Computer Architechture/Project - Store Sets/final_proj (latency 1, perfect branch prediction)> runproj ss4 256
+Total cycles: 224 Total MicroOps: 1000 IPC: 4.464286
+Total cycles: 13096147 Total MicroOps: 100000000 IPC: 7.635834
+Total cycles: 1817501 Total MicroOps: 10000000 IPC: 5.502060
+Total cycles: 9077828 Total MicroOps: 49999999 IPC: 5.507925
+Total cycles: 19746368 Total MicroOps: 100000002 IPC: 5.064223
+Total cycles: 8872 Total MicroOps: 60191 IPC: 6.784378
+Total cycles: 13614222 Total MicroOps: 100000000 IPC: 7.345260
+Total cycles: 17816725 Total MicroOps: 100000000 IPC: 5.612704
+Total cycles: 15866899 Total MicroOps: 100000000 IPC: 6.302429
+Total cycles: 13729224 Total MicroOps: 100000000 IPC: 7.283733
+Total cycles: 15684570 Total MicroOps: 100000000 IPC: 6.375693
+Total cycles: 1567298 Total MicroOps: 10000000 IPC: 6.380408
+

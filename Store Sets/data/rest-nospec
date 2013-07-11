@@ -1,0 +1,5 @@
+zubeen@spec18:~/Computer Architechture/Project - Store Sets/final_proj (latency 1, perfect branch prediction)> runproj1 nospec
+Total cycles: 16027678 Total MicroOps: 100000000 IPC: 6.239207
+Total cycles: 15946371 Total MicroOps: 100000000 IPC: 6.271019
+Total cycles: 10325454 Total MicroOps: 49999999 IPC: 4.842402
+

@@ -1,0 +1,12 @@
+zcat /home1/c/cis501/html/traces/gcc-1K.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/art-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/gcc-10M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/gcc-50M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/go-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/helloworld.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/hmmer-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/libquantum-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/mcf-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/sjeng-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/sphinx3-100M.trace.gz | ./$1 $2
+zcat /home1/c/cis501/html/traces/sphinx3-10M.trace.gz | ./$1 $2
